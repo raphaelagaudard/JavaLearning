@@ -16,7 +16,7 @@ public class Main {
         double media = (nota1 + nota2) / 2;
         System.out.println("A média das notas é: " + media);
 
-        // 2. Casting de double para int
+        // 2. Casting - double para int
         double valorDouble = 9.99;
         int valorInt = (int) valorDouble; // Casting
         System.out.println("O valor double convertido para int é: " + valorInt);
